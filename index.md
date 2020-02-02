@@ -8,9 +8,9 @@
 <img src="images/project1collage.jpg?raw=true"/>
 
 ---
-[TicTacToe C++](https://github.com/sayashraaj/tictactoe)
+[Whatsapp SpamBot](https://github.com/sayashraaj/WhatsappSpamBot)
 <img src="images/project2collage.jpg?raw=true"/>
 
 ---
-[Whatsapp SpamBot](https://github.com/sayashraaj/WhatsappSpamBot)
+[TicTacToe C++](https://github.com/sayashraaj/tictactoe)
 <img src="images/project3collage.jpg?raw=true"/>
